@@ -1,6 +1,4 @@
-streamlit
-pandas
-scikit-learn
-spacy
-nltk
+streamlit==1.22.0
+pandas==1.5.3
+nltk==3.8.1
 python-dotenv
