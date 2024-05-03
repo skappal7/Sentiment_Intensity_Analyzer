@@ -9,7 +9,11 @@ Original file is located at
 
 import streamlit as st
 import pandas as pd
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+from sklearn.feature_extraction.text import CountVectorizer
 import nltk
+from nltk.corpus import stopwords
 from nltk.sentiment import SentimentIntensityAnalyzer
 
 # Download the required NLTK data
