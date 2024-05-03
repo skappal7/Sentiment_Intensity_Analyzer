@@ -1,3 +1,9 @@
 streamlit
 pandas
+scikit-learn
+spacy
+wordcloud
+matplotlib
+networkx
 nltk
+python-dotenv
