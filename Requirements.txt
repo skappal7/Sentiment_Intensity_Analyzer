@@ -2,6 +2,5 @@ streamlit
 pandas
 scikit-learn
 spacy
-matplotlib
 nltk
 python-dotenv
